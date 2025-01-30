@@ -8,3 +8,5 @@ Private copy of my system-administration repo for testing with Dev Spaces
 
 
 <img src="images/vscode.png?raw=true" alt="GitHub Icon" style="width:32px;height:32px;">
+
+![GitHub](images/vscode.png?raw=true "GitHub Icon"){width: 32px; height: 32px}
