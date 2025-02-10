@@ -1,6 +1,6 @@
 schemaVersion: 2.2.2
 metadata:
-  name: ansible-env
+  name: ansible-env-scott
 components:
   - name: tooling-container
     container:
